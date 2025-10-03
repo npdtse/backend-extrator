@@ -124,22 +124,6 @@ JSON
 JSON
 
 {"erro": "Nenhum dado foi extraído..."}
-📂 Estrutura do Projeto
-.
-├── api_extrator/             # Pasta do Backend
-│   ├── venv/
-│   ├── app.py                # Servidor Flask e rotas da API
-│   ├── extrator.py           # Lógica de extração do PDF
-│   └── requirements.txt      # Dependências do Python
-│
-├── meu_frontend/             # Pasta do Frontend
-│   ├── node_modules/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.css
-│   │   └── App.js            # Componente principal do React
-│   └── package.json          # Dependências do Node.js
-│
-└── README.md                 # Este arquivo
+
 📜 Licença
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
