@@ -1,7 +1,3 @@
-Com certeza! Um bom arquivo README.md é essencial para qualquer projeto. Ele serve como um manual de instruções para você mesmo no futuro e para qualquer outra pessoa que venha a interagir com o código.
-
-Abaixo está uma sugestão de README completo e bem estruturado, escrito em Markdown, que você pode salvar como README.md na pasta principal do seu projeto no GitHub.
-
 Extrator de Dados de Folhas de Pagamento
 Uma API para extração automática de dados de folhas de pagamento em formato PDF, com um frontend de exemplo em React para interação e download dos resultados em formato Excel.
 
